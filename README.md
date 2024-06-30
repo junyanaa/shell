@@ -83,9 +83,13 @@ help：显示帮助信息
 如果你有任何问题或建议，请通过以下方式联系我们：
 
 邮箱：2512728420@qq.com
+
 GitHub：https://github.com/your-repository/shell-project
+
 作者
+
 名字：Winnie
+
 邮箱：2512728420@qq.com
 
 此文档提供了从获取源代码到运行和使用Shell程序的完整说明。如果你有其他需要添加的功能或文档，请随时联系我。
