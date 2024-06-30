@@ -21,7 +21,7 @@ main.cpp：主程序文件，包含了Shell的实现逻辑。
 1. 下载或克隆本项目的源代码到本地：
 
    ```shell
-   git clone https://github.com/your-repository/shell-project.git
+   git clone https://github.com/junyanaa/shell.git
    cd shell-project
    ```
 
@@ -84,7 +84,7 @@ help：显示帮助信息
 
 邮箱：2512728420@qq.com
 
-GitHub：https://github.com/your-repository/shell-project
+GitHub：https://github.com/junyanaa/shell.git
 
 作者
 
