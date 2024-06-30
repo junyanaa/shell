@@ -22,7 +22,7 @@ main.cpp：主程序文件，包含了Shell的实现逻辑。
 
    ```shell
    git clone https://github.com/junyanaa/shell.git
-   cd shell-project
+   cd myshell
    ```
 
 2. 使用g++编译器编译源代码：
